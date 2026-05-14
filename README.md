@@ -134,4 +134,4 @@ Conecte-se: [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
 
 ---
 
-> *"As pessoas que ficarão para trás no mercado de trabalho não são as que lutam contra a IA, mas as que não aprenderam a usá-la de forma inteligente."* — Felipão, DIO
+
